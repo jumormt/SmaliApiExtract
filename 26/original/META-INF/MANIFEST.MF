@@ -1,0 +1,96 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: com/wiyun/ad/sdk_zh.properties
+SHA1-Digest: NVYPwpGRDVTSoyGnOdnh0uCVC5A=
+
+Name: com/casee/adsdk/webview_side_page.png
+SHA1-Digest: 3oWY7U6fnfFd1ZlOy3+ahVEZACs=
+
+Name: com/wiyun/ad/HtmlCharacterEntityReferences.properties
+SHA1-Digest: dt1LNAlGWKYxlnbls1sXeP0oZL8=
+
+Name: com/casee/adsdk/webview_next_off.png
+SHA1-Digest: Xjupp/Ag2wLZpifAiFRtfETN7qU=
+
+Name: com/casee/adsdk/logo.png
+SHA1-Digest: CffMTgkDEwBfyYu8ztQFFq8wvhU=
+
+Name: res/drawable-hdpi/g0.jpg
+SHA1-Digest: rXKBpC2xum+oFohZyd2yHpjNBho=
+
+Name: resources.arsc
+SHA1-Digest: ANfOm3duIcAGvqtxMUNr0gIkrQM=
+
+Name: com/casee/adsdk/webview_loading.png
+SHA1-Digest: Jb3TQtsYpOgfLufRw0hGSoKi8mA=
+
+Name: com/casee/adsdk/webview_background.png
+SHA1-Digest: YyGtDKSbx5CFEMuINb1+hlQevis=
+
+Name: com/casee/adsdk/recommend240.png
+SHA1-Digest: pkI8TNl2ifkzp5hgvPEl5yFU68s=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: 0M+Vx/Um24Zxx+lKUsKramiEP/4=
+
+Name: AndroidManifest.xml
+SHA1-Digest: d1KI1jkinDjyMO+xR/07oqbHe70=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: 0M+Vx/Um24Zxx+lKUsKramiEP/4=
+
+Name: com/casee/adsdk/webview_hand.png
+SHA1-Digest: nHg9tRingt5OXPx4FTFK9UmmstQ=
+
+Name: com/wiyun/ad/sdk.properties
+SHA1-Digest: d71u5ntgrL5/N2Lbjmww6q9I+Tw=
+
+Name: com/casee/adsdk/webview_web_refresh.png
+SHA1-Digest: BwoiRqAz9PWmjE22fyT0kVIzG2Y=
+
+Name: com/casee/adsdk/webview_download_icon_up.png
+SHA1-Digest: ZdnFA0FUPHw52sg7oSDAtRWSU3A=
+
+Name: assets/wooboo_logo.png
+SHA1-Digest: PctO9O1XH7y4kTZElfTR7wA0vR8=
+
+Name: com/casee/adsdk/webview_introduce_logo.png
+SHA1-Digest: Z6Skzk8aZowAThwgCbUZ9J8v9TI=
+
+Name: com/casee/adsdk/webview_next_on.png
+SHA1-Digest: f42c0y/wh7N6xBRje4bC4656kbQ=
+
+Name: classes.dex
+SHA1-Digest: EiHSHxilavIMjzy8n3r9SONRqJU=
+
+Name: com/casee/adsdk/webview_exit.png
+SHA1-Digest: ZXarJw64rywBR9mWLoRIz5YpIXI=
+
+Name: res/layout/main.xml
+SHA1-Digest: cYZbJ3RBiuOVkNpzQdp2H5SesIw=
+
+Name: com/casee/adsdk/webview_open_web.png
+SHA1-Digest: UOCtmFgBge0CR6Hf5aS0SZ+gSPE=
+
+Name: assets/wooboo_ua.properties
+SHA1-Digest: N4jVgiyeS2w33j1Fki0/NB2OMIg=
+
+Name: com/casee/adsdk/webview_last_on.png
+SHA1-Digest: c6+V3nd0HnYSpvyBHOI+rRLQmKQ=
+
+Name: res/raw/cms.txt
+SHA1-Digest: IYKnytvwIkO8NkKpeXf9Pe2XGOQ=
+
+Name: assets/wooboo_btn.png
+SHA1-Digest: qm8SfYV2S4MandyI3LUEXUtgjlM=
+
+Name: com/casee/adsdk/recommend160.png
+SHA1-Digest: J16tdbUiJK+5Gj7B/svbTiA+5hc=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: 0M+Vx/Um24Zxx+lKUsKramiEP/4=
+
+Name: com/casee/adsdk/webview_last_off.png
+SHA1-Digest: 7PBMCBtD7LVBKytqXJIff4kbMd0=
+

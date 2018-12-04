@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="layout">false</item>
+    <item type="id" name="ViewFlipper01">false</item>
+    <item type="id" name="myList">false</item>
+    <item type="id" name="adLayout">false</item>
+</resources>

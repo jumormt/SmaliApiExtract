@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/g0" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:admobsdk="http://schemas.android.com/apk/res/Android.JokeProject">
+    <FrameLayout android:orientation="vertical" android:id="@android:id/tabcontent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <LinearLayout android:orientation="vertical" android:id="@id/layout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ViewFlipper android:id="@id/ViewFlipper01" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <ListView android:id="@id/myList" android:layout_width="fill_parent" android:layout_height="fill_parent" android:cacheColorHint="#00000000" />
+            </ViewFlipper>
+        </LinearLayout>
+    </FrameLayout>
+    <TabWidget android:id="@android:id/tabs" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:id="@id/adLayout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0" />
+    </TabWidget>
+</LinearLayout>

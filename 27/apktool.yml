@@ -1,0 +1,43 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: 27.apk
+compressionType: false
+doNotCompress:
+- arsc
+- jpg
+- png
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '3'
+sharedLibrary: false
+sparseResources: true
+unknownFiles:
+  com/casee/adsdk/logo.png: '8'
+  com/casee/adsdk/recommend160.png: '8'
+  com/casee/adsdk/recommend240.png: '8'
+  com/casee/adsdk/webview_background.png: '8'
+  com/casee/adsdk/webview_download_icon_up.png: '8'
+  com/casee/adsdk/webview_exit.png: '8'
+  com/casee/adsdk/webview_hand.png: '8'
+  com/casee/adsdk/webview_introduce_logo.png: '8'
+  com/casee/adsdk/webview_last_off.png: '8'
+  com/casee/adsdk/webview_last_on.png: '8'
+  com/casee/adsdk/webview_loading.png: '8'
+  com/casee/adsdk/webview_next_off.png: '8'
+  com/casee/adsdk/webview_next_on.png: '8'
+  com/casee/adsdk/webview_open_web.png: '8'
+  com/casee/adsdk/webview_side_page.png: '8'
+  com/casee/adsdk/webview_web_refresh.png: '8'
+  com/wiyun/ad/HtmlCharacterEntityReferences.properties: '8'
+  com/wiyun/ad/sdk.properties: '8'
+  com/wiyun/ad/sdk_zh.properties: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.4
+versionInfo:
+  versionCode: '2'
+  versionName: '1.1'

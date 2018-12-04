@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="openfile_scroll">false</item>
+    <item type="id" name="radioGroup">false</item>
+    <item type="id" name="unicode">false</item>
+    <item type="id" name="utf8">false</item>
+    <item type="id" name="gbk">false</item>
+    <item type="id" name="custom">false</item>
+    <item type="id" name="customEncodingGuide">false</item>
+    <item type="id" name="customEncoding">false</item>
+    <item type="id" name="image">false</item>
+    <item type="id" name="filename">false</item>
+    <item type="id" name="linearLayout2">false</item>
+    <item type="id" name="textView5">false</item>
+    <item type="id" name="edittext1">false</item>
+    <item type="id" name="adView">false</item>
+    <item type="id" name="scrollView1">false</item>
+    <item type="id" name="linearLayout1">false</item>
+    <item type="id" name="textfield">false</item>
+    <item type="id" name="textView1">false</item>
+    <item type="id" name="filelist">false</item>
+    <item type="id" name="optionlist">false</item>
+</resources>
